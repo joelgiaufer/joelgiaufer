@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=204A98&width=435&lines=%E2%80%9CSuccess+is+the+ability+to+go+from+one+failure+to+another+with+no+loss+of+enthusiasm.%E2%80%9D+(Winston+Churchill))](https://git.io/typing-svg)
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **joelgiaufer/joelgiaufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
