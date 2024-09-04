@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=204A98&width=435&lines=%E2%80%9CSuccess+is+the+ability+to+go+from+one+failure+to+another+with+no+loss+of+enthusiasm.%E2%80%9D+(Winston+Churchill))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=204A98&multiline=true&width=500&lines=%E2%80%9CSuccess+is+the+ability+to+go+from+one+failure+to+another;+with+no+loss+of+enthusiasm.%E2%80%9D+(Winston+Churchill))](https://git.io/typing-svg)
 <!-- ## Hi there 👋 -->
 
 <!--
